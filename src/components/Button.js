@@ -10,7 +10,7 @@ class Button extends React.Component {
     var button;
 
     if (text === "english") {
-      button = "Name";
+      button = "Submit";
     } else if (text === "dutch") {
       button = "Voorleggen";
     } else if (text === "punjabi") {

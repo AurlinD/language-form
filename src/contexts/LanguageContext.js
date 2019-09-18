@@ -1,6 +1,6 @@
 import React from "react";
 
-export default React.createContext("dutch");
+export default React.createContext("english");
 //create a default value and pass it into the context call
 
 //create context object, define context object in class , use this.context to access dynamic changes
